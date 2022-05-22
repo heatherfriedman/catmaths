@@ -5,13 +5,19 @@ day. This utility tells me how.
 
 # Running
 
-To run:
+I decided to use Deno, for funzies.
+
+[Installing Deno](https://deno.land/manual/getting_started/installation)
+
+[VSCode integration](https://deno.land/manual/vscode_deno)
+
+## To run:
 
 ```
 deno run ./catmaths.ts
 ```
 
-OR to watch and dev
+Or:
 
 ```
 deno run --watch ./catmaths.ts
